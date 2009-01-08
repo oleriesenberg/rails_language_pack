@@ -35,5 +35,11 @@ This is the *"Default Rails-Languagepack"* it contains the following languages:
 * Chinese (Taiwan)
 
 and some funny stuff.
+
 Install:
-@ ruby script/plugin install git://github.com/kairichard/rails_language_pack.git @
+
+@ 
+
+ruby script/plugin install git://github.com/kairichard/rails_language_pack.git 
+
+@
