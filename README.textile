@@ -1,0 +1,39 @@
+This is the *"Default Rails-Languagepack"* it contains the following languages:
+
+* Arabic
+* Bosnian
+* Czech
+* Danish
+* German
+* Greek
+* Spanish
+* Spanish as spoken in Mexico
+* Persian
+* Finnish
+* French
+* French (Switzerland)
+* Galician (Spain)
+* Hebrew
+* Hungarian
+* Bahasa Indonesia
+* Italian
+* Japanese
+* Macedonian
+* Netherlandish
+* Norwegian
+* Polish
+* Portuguese
+* Romanian
+* Russian
+* Serbian
+* Serbian (Latin)
+* Swedish
+* Thai
+* Turkish
+* Vietnamese
+* Chinese (China)
+* Chinese (Taiwan)
+
+and some funny stuff.
+Install:
+@ ruby script/plugin install git://github.com/kairichard/rails_language_pack.git @
