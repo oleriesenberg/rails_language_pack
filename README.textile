@@ -38,8 +38,4 @@ and some funny stuff.
 
 Install:
 
-@ 
-
-ruby script/plugin install git://github.com/kairichard/rails_language_pack.git 
-
-@
+@ ruby script/plugin install git://github.com/kairichard/rails_language_pack.git @
