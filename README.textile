@@ -36,6 +36,8 @@ This is the *"Default Rails-Languagepack"* it contains the following languages:
 
 and some funny stuff.
 
+Flags from: http://www.free-country-flags.com/flag_pack.php?id=3
+
 Install:
 
 @ ruby script/plugin install git://github.com/kairichard/rails_language_pack.git @
