@@ -1,3 +1,5 @@
+# coding: utf-8
+
 # original by Dr. Nic
 
 {

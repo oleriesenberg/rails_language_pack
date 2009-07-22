@@ -1,3 +1,5 @@
+# coding: utf-8
+
 {
   :'gibberish' => {
     # date and time formats

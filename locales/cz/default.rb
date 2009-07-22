@@ -1,3 +1,5 @@
+# coding: utf-8
+
 # Czech translations for Ruby on Rails 
 # by Karel Minařík (karmi@karmi.cz)
 

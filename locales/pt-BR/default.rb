@@ -1,3 +1,5 @@
+# coding: utf-8
+
 { 
   :'pt-BR' => {
     # formatos de data e hora
